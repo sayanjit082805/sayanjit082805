@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanjit082805&label=Profile%20views&color=0e75b6&style=flat" alt="sayanjit082805" /> </p>
+<h1 align="center">Hello There!👋 I am Sayanjit</h1>
+- 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me **sayanjitukil2005@gmail.com**
 
@@ -12,4 +13,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanjit082805&show_icons=true&locale=en" alt="sayanjit082805" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&" alt="sayanjit082805" /></p>
-
