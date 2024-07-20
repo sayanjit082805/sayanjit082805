@@ -1,8 +1,26 @@
-<h1 align="center">Hello there!</h1>
+# Hello There!
 
-- 📫 How to reach me **sayanjitukil2005@gmail.com**
+### Languages:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/javascript-1E293B.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-075985?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-0284C7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FDBA74.svg?style=for-the-badge&logo=openjdk&logoColor=6b7280)
+[![Go](https://img.shields.io/badge/Go-0369A1.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact" alt="sayanjit082805" /></p>
+### Frameworks
+
+![React](https://img.shields.io/badge/react-374151.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CBD5E1.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![Flask](https://img.shields.io/badge/flask-BAE6FD.svg?style=for-the-badge&logo=flask&logoColor=gray)
+![Vite](https://img.shields.io/badge/Vite-9333EA.svg?style=for-the-badge&logo=vite&logoColor=fff)
+
+### Tools 
+![Vercel](https://img.shields.io/badge/Vercel-0C0A09.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-09090B?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-93C5FD?style=for-the-badge&logo=mysql&logoColor=020617)
+
+### Connect with me
+
+[![Gmail Badge](https://img.shields.io/badge/-sayanjitukil2005@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sayanjitukil2005@gmail.com)](mailto:sayanjitukil2005@gmail.com)
+[![Protonmail Badgs](https://img.shields.io/badge/-sayanjitukil2005@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:sayanjitukil2005@protonmail.com)](mailto:sayanjitukil2005@protonmail.com)
