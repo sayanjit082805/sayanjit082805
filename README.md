@@ -34,7 +34,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f87171.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eliteconqueror_20)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanjit-ukil-7bb303322/) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact" alt="sayanjit082805" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&" alt="sayanjit082805" /></p>
+[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
+
+
+[![Stats-1](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&")](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&")
 
 [![Sayanjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayanjit082805&bg_color=020617&color=f8fafc&line=f8fafc&point=164e63&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
