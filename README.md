@@ -37,6 +37,6 @@
 [![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
 
 
-[![Stats-1](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&")](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&")
+[![Stats-1](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&mode=weekly")](https://github-readme-streak-stats.herokuapp.com/?user=sayanjit082805&")
 
 [![Sayanjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayanjit082805&bg_color=020617&color=f8fafc&line=f8fafc&point=164e63&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
