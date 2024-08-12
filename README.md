@@ -7,6 +7,7 @@
 ![C++](https://img.shields.io/badge/c++-0284C7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FDBA74.svg?style=for-the-badge&logo=openjdk&logoColor=6b7280)
 [![Go](https://img.shields.io/badge/Go-0369A1.svg?style=for-the-badge&logo=go&logoColor=white)](#)
+![Bash](https://img.shields.io/badge/Bash-09090b.svg?style=for-the-badge&logo=gnubash&logocolor=fff)
 
 
 ### Frameworks:
@@ -15,7 +16,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CBD5E1.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 ![Flask](https://img.shields.io/badge/flask-BAE6FD.svg?style=for-the-badge&logo=flask&logoColor=gray)
 ![Vite](https://img.shields.io/badge/Vite-9333EA.svg?style=for-the-badge&logo=vite&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-09090b.svg?style=for-the-badge&logo=gnubash&logocolor=fff)
 
 ### Tools:
 
