@@ -34,9 +34,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f87171.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eliteconqueror_20)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanjit-ukil-7bb303322/) 
 
-[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact&theme=nord)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
+[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sayanjit082805&theme=nordfox&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sayanjit082805&theme=travelers-theme&mode=weekly)](https://git.io/streak-stats)
 
 [![Sayanjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayanjit082805&bg_color=020617&color=f8fafc&line=f8fafc&point=164e63&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
