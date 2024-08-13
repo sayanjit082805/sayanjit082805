@@ -34,7 +34,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f87171.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eliteconqueror_20)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanjit-ukil-7bb303322/) 
 
-[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
+[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact&bg_color=150E1F&border_color=E4E2E2&title_color=F28157&text_color=F2F2F2&theme=calm)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sayanjit082805&theme=travelers-theme&mode=weekly)](https://git.io/streak-stats)
