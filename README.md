@@ -34,9 +34,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-f87171.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eliteconqueror_20)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanjit-ukil-7bb303322/) 
 
-[![Stats-1](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact&bg_color=020617&border_color=020617&title_color=f8fafc&text_color=f8fafc&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs?username=sayanjit082805&show_icons=true&locale=en&layout=compact)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sayanjit082805&mode=weekly&background=020617&currStreakLabel=f8fafc&stroke=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=f8fafc&dates=f8fafc&ring=ef4444&fire=ef4444)](https://git.io/streak-stats)
 
 [![Sayanjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayanjit082805&bg_color=020617&color=f8fafc&line=f8fafc&point=164e63&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
