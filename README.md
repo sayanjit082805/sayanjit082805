@@ -32,6 +32,7 @@
 [![Protonmail Badge](https://img.shields.io/badge/-sayanjitukil2005@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:sayanjitukil2005@protonmail.com)](mailto:sayanjitukil2005@protonmail.com)
 [![Codewars Badge](https://img.shields.io/badge/sayanjit082805-b91c1c?style=for-the-badge&logo=codewars&logoColor=374151)](https://www.codewars.com/users/sayanjit082805)
 [![Instagram](https://img.shields.io/badge/Instagram-f87171.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eliteconqueror_20)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2563eb.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://eliteconqueror20.hashnode.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanjit-ukil-7bb303322/) 
 
 
