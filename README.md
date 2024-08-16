@@ -10,7 +10,7 @@
 ![Bash](https://img.shields.io/badge/Bash-09090b.svg?style=for-the-badge&logo=gnubash&logocolor=fff)
 
 
-### Frameworks:
+### Frameworks/Libraries:
 
 ![React](https://img.shields.io/badge/react-374151.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CBD5E1.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
