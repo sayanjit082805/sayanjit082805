@@ -17,7 +17,7 @@
 ![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CBD5E1.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 ![Flask](https://img.shields.io/badge/flask-BAE6FD.svg?style=for-the-badge&logo=flask&logoColor=gray)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9333EA.svg?style=for-the-badge&logo=vite&logoColor=fff)
 
 ### Tools:
