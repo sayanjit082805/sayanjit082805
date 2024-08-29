@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-1E293B.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-075985?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-0284C7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-0284C7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-FDBA74.svg?style=for-the-badge&logo=openjdk&logoColor=6b7280)
 [![Go](https://img.shields.io/badge/Go-0369A1.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 ![Bash](https://img.shields.io/badge/Bash-09090b.svg?style=for-the-badge&logo=gnubash&logocolor=fff)
