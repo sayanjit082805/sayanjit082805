@@ -43,3 +43,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sayanjit082805&mode=weekly&background=020617&currStreakLabel=f8fafc&stroke=f8fafc&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=f8fafc&dates=f8fafc&ring=ef4444&fire=ef4444)](https://git.io/streak-stats)
 
 [![Sayanjit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayanjit082805&bg_color=020617&color=f8fafc&line=f8fafc&point=164e63&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![An image of @sayanjit082805's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayanjit082805)](https://holopin.io/@sayanjit082805)
